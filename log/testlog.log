@@ -1274,3 +1274,9 @@
 2019-12-27 16:05:49,616 - e-banking -INFO - chrome browser is opened
 2019-12-27 16:05:49,755 - e-banking -INFO - chrome browser is maximised
 2019-12-27 16:05:54,669 - e-banking -INFO - The Url has been opened
+2019-12-27 19:59:37,261 - e-banking -INFO - chrome browser is opened
+2019-12-27 19:59:37,528 - e-banking -INFO - chrome browser is maximised
+2019-12-27 19:59:43,297 - e-banking -INFO - The Url has been opened
+2019-12-27 19:59:43,690 - e-banking -INFO - Username & Password has been entered
+2019-12-27 19:59:47,420 - e-banking -INFO - Clicked the login button
+2019-12-27 19:59:47,451 - e-banking -INFO - The home page is opened and the title is validated

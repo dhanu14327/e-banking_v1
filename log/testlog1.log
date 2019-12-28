@@ -1274,3 +1274,9 @@
 2019-12-27 16:05:49,616 [TestNG] INFO e-banking - chrome browser is opened
 2019-12-27 16:05:49,755 [TestNG] INFO e-banking - chrome browser is maximised
 2019-12-27 16:05:54,669 [TestNG] INFO e-banking - The Url has been opened
+2019-12-27 19:59:37,261 [TestNG] INFO e-banking - chrome browser is opened
+2019-12-27 19:59:37,528 [TestNG] INFO e-banking - chrome browser is maximised
+2019-12-27 19:59:43,297 [TestNG] INFO e-banking - The Url has been opened
+2019-12-27 19:59:43,690 [TestNG] INFO e-banking - Username & Password has been entered
+2019-12-27 19:59:47,420 [TestNG] INFO e-banking - Clicked the login button
+2019-12-27 19:59:47,451 [TestNG] INFO e-banking - The home page is opened and the title is validated
